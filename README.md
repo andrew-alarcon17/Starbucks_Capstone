@@ -1,10 +1,19 @@
 # Starbucks Capstone Project
 
 ## Project Description
+This project contains mimiced user behavior on the Starbucks rewards mobile application. In this app, Starbucks sends out offers to its customers, like BOGO (buy one, get one free) or a discount. Different users get different offers. So the main goal of this project was to figure out which offers succeed the most to which types of customers.
 
 ## About the Data
 
 ### Portfolio
+The porfolio dataset contains information on the offers, such as:
+
+    id (string) - offer id
+    offer_type (string) - type of offer ie BOGO, discount, informational
+    difficulty (int) - minimum required spend to complete an offer
+    reward (int) - reward given for completing an offer
+    duration (int) - time for offer to be open, in days
+    channels (list of strings)
 
 ### Profile
 
