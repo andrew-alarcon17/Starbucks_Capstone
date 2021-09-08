@@ -1,7 +1,7 @@
 # Starbucks Capstone Project
 
 ## Project Description
-This project contains mimiced user behavior on the Starbucks rewards mobile application. In this app, Starbucks sends out offers to its customers, like BOGO (buy one, get one free) or a discount. Different users get different offers. So the main goal of this project was to figure out which offers succeed the most to which types of customers.
+This project contains mimicked user behavior on the Starbucks rewards mobile application. In this app, Starbucks sends out offers to its customers, like BOGO (buy one, get one free) or a discount. Different users get different offers. So the main goal of this project was to figure out which offers succeed the most to which types of customers.
 
 ## About the Data
 
