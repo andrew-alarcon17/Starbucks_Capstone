@@ -50,5 +50,7 @@ For discounts, the ones in blue and purple dominate in all 4 age groups.
 ## Acknowledgements
 This data was provided by the Udacity Data Science Course team.
 
+Link to the blog post is [here](https://andrew-alarcon17.github.io/post/project-14/)
+
 
 
